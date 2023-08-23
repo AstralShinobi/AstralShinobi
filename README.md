@@ -1,7 +1,7 @@
 ![Learning Computer Science](https://i.pinimg.com/736x/74/9a/6e/749a6eacb3d3f1777541b292dfff3250.jpg)
 
-### Hi there 👋, I'm Yuk
-#### Learning Computer Science
+# Hi there 👋, I'm Yuk
+## Learning Computer Science
 
 Enthusiastic explorer of the digital realm with a passion for technology, Python programming, and the fascinating world of AI. Eager to unravel the mysteries of coding and machine intelligence, I'm on a perpetual journey of learning and growth. Whether I'm tinkering with lines of code or delving into the intricacies of artificial intelligence, I find joy in every step of this dynamic and ever-evolving adventure.
 
