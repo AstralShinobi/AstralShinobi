@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Yuk
-#### Learning Computer Science
+## Hi there 👋, I'm Yuk
+### Learning Computer Science
 ![Learning Computer Science](https://media1.giphy.com/media/S5h4gvxxc1qlG/giphy.gif?cid=ecf05e47tnbhgmynz1pzbiroj9l02uz6khzy9bdsdiai0jvp&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 Enthusiastic explorer of the digital realm with a passion for technology, Python programming, and the fascinating world of AI. Eager to unravel the mysteries of coding and machine intelligence, I'm on a perpetual journey of learning and growth. Whether I'm tinkering with lines of code or delving into the intricacies of artificial intelligence, I find joy in every step of this dynamic and ever-evolving adventure.
